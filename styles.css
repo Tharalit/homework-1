@@ -1,0 +1,60 @@
+.profile-pic{
+    width: 20%;
+    border-radius: 100%;
+}
+.educate-pic{
+    width: 20%;
+    border-radius: 100%;
+}
+.work-pic{
+    width: 20%;
+    border-radius: 100%;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+.box-info{
+    border: 1px solid black;
+    width: 25%;
+    border-radius: 2%;
+    padding: 40px;
+}
+.education-table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 700px;
+}
+.education-table td{
+    border: 1px solid black;
+    padding: 4px;
+}
+.tr-1, .tr-2{
+    text-align: center;
+}
+.work-table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 700px;
+}
+.work-table td{
+    border: 2px solid rgb(190, 190, 190);
+    padding: 4px;
+}
+.first-column {
+    background-color: rgb(163, 219, 247);
+}
+.your-name{
+    width: 55%;
+}
+.your-email{
+    width: 55%;
+}
+.gender{
+    width: 55%;
+}
